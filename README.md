@@ -1,5 +1,5 @@
 # FUTURE_ML_03
-# 📄 Resume Screening & Candidate Ranking System (FUTURE_ML_03)
+# 📄 Resume Screening & Candidate Ranking System
 
 ## 📌 Project Overview
 This project builds a Machine Learning–based system that automatically screens, scores, and ranks resumes based on a given job description.
